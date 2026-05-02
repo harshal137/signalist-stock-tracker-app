@@ -2,8 +2,8 @@ import { Button } from '@/components/ui/button'
 
 const page = () => {
   return (
-    <div className="flex items-center justify-center h-screen">
-      <Button>Hello, Next.js!</Button>
+    <div className="flex min-h-screen home-wrapper ">
+      home
     </div>
   )
 }
